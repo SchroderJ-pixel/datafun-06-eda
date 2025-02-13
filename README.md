@@ -51,6 +51,7 @@ git push
   ```
 - The repository is now ready for further development and analysis.
 
-## Verifying the Setup
-Ensure your GitHub repository reflects the latest updates. If needed, take a screenshot for documentation purposes.
-
+## 6. Downloading the Diamonds Dataset
+- Go to the following URL: [Diamonds Dataset - Seaborn GitHub](https://raw.githubusercontent.com/mwaskom/seaborn-data/refs/heads/master/diamonds.csv).
+- Use Python's `requests` library to download the dataset.
+- Save the file locally in the `data` folder within the project directory: `C:\Projects\datafun-06\datafun-06-eda\data\diamonds.csv`.
